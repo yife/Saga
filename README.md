@@ -1,17 +1,17 @@
-Saga [![Latest Github release](https://img.shields.io/github/release/Reedyn/Saga.svg?style=flat-square)](http://github.com/Reedyn/Saga/releases/latest) [![](http://img.shields.io/github/issues/Reedyn/Saga.svg?style=flat-square)](http://github.com/Reedyn/Saga/issues) [![Project Status](http://saga.gustavlindqvist.se/content/images/2015/01/Saga.png)](https://stillmaintained.com/Reedyn/Saga) [![Gitter Support Chat](https://img.shields.io/badge/Gitter-Support_chat-green.svg?style=flat-square)](//gitter.im/Reedyn/Saga)
+Saga [![Project Status](http://saga.gustavlindqvist.se/content/images/2015/01/Saga.png)](https://stillmaintained.com/Reedyn/Saga) [![](https://img.shields.io/github/release/Reedyn/Saga.svg?style=flat-square)](http://github.com/Reedyn/Saga/releases/latest) [![Total downloads](https://img.shields.io/github/downloads/Reedyn/Saga/total.svg?style=flat-square)](http://github.com/Reedyn/Saga/releases/latest) [![](https://gustavlindqvist.ghost.io/content/images/2016/02/Zenhub.svg)](https://www.zenhub.io/) [![Discord Support Chat](http://gustavlindqvist.se/content/images/2016/02/Discord-Button-2.svg)](https://discord.gg/0hxZF1kYaZ4M65fL)
 ====
 
-![](http://saga.gustavlindqvist.se/content/images/2014/10/Saga-showcase.png)
+[![](http://saga.gustavlindqvist.se/content/images/2014/10/Saga-showcase.png)](http://saga.gustavlindqvist.se/2014/09/22/welcome-to-ghost/)
 
 > **Saga** is a theme designed to look beautiful with all your media, be it a collection of images, a video you've embedded or that nice panorama you took yesterday. *To take a look at the various ways you can display your content, check out [this post](http://saga.gustavlindqvist.se/2014/09/22/welcome-to-ghost/)*.
 
 ## What is being worked on?
 
-An [overview of issues can be found over at waffle.io](https://waffle.io/Reedyn/Saga)
+An [overview of issues can be seen using Zenhub](https://zenhub.io).
 
 ## Need support or just want to say something?
 
-Hop in to [our chatroom](//gitter.im/Reedyn/Saga) and ask the developers directly or send a message to [@reedyn on the official Ghost Slack](https://ghost.slack.com).
+Hop in to [our chatroom](https://discord.gg/0hxZF1kYaZ4M65fL) and ask the developers directly.
 
 ## Supports all major browsers!
 
